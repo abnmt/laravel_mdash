@@ -1,5 +1,5 @@
 {
-	"name": "lutov/laravel_mdash",
+	"name": "abnmt/laravel_mdash",
 	"description": "Evgeny Muravjev Typograph compatible with Laravel 4, http://mdash.ru",
 	"license": "Public Domain",
 	"require": {
